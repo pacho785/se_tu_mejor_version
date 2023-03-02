@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/610758838/es/vector/patrón-de-ejercicios.jpg?s=612x612&w=0&k=20&c=uZAJ6Us77ISoBspZvq32TXDBYHj80Kz3kGt26UVowkg=);
+}
+.doit{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    background-color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(143, 95, 158);
+    font-family: 'Fredoka One', cursive;
+}
+h1{
+color: rgb(0, 0, 0);
+font-family: 'Phudu', cursive;
+background-color: rgb(255, 255, 255);
+text-align: center;
+}
+h4{
+    font-family: 'PT Mono', monospace;
+    font-size: 25px;
+    color: black;
+}
+em{
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+div{
+    justify-content: center;
+    display: flex;
+}
+.mamelo{
+    text-align: left;
+}
+h3{
+    background-color: white;
+}
+td{
+    color: gray;
+    font-size: 20px;
+}
+table td:hover{
+    background-color: rgb(161, 43, 172);
+    color: white;
+}
+table{
+    background-color: white;
+}
+.babys td:hover {
+    background-color: rgb(214, 98, 152);
+}

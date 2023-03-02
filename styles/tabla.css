@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/610758838/es/vector/patrón-de-ejercicios.jpg?s=612x612&w=0&k=20&c=uZAJ6Us77ISoBspZvq32TXDBYHj80Kz3kGt26UVowkg=);
+}
+table{
+    background-color: white;
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+}
+table td:hover {
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    background-color: pink;
+}
